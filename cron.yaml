@@ -1,0 +1,7 @@
+cron:
+- description: "ping to keep bot alive"
+  url: /
+  schedule: every 2 mins
+- description: "restart bot module polling"
+  url: /restart
+  schedule: every 10 mins

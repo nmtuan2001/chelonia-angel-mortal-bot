@@ -6,14 +6,14 @@ const constants = {
 		+ "Released: 10 Aug '21\n"
 		+ "Patch Notes: Change zone to house\n"
 		+ "Created by @lumos309, updated by @nmtuan_14",
-	helpMessage: "Welcome to Chelonia-Aonyx Angels & Mortals 2021!\n\n"
+	helpMessage: "Welcome to Chelonia-Aonyx Angel & Mortal 2021!\n\n"
 		+ "To join the game, use the /register command.\n\n"
 		+ "To send messages, write '/a' or '/m' followed by your message.\n\n"
 		+ "For example:\n"
 		+ "/a Hi angel! Thanks for the gifts :)\n"
 		+ "/m Hey mortal. You're welcome!\n\n"
 		+ "For tech support, PM @nmtuan_14 wtih screenshots of any errors.",
-        startMessage: "Welcome to Chelonia-Aonyx Angels & Mortals 2021!\n\n"
+        startMessage: "Welcome to Chelonia-Aonyx Angel & Mortal 2021!\n\n"
 		+ "To join the game, use the /register command.\n\n"
 		+ "To send messages, write '/a' or '/m' followed by your message.\n\n"
 		+ "For example:\n"

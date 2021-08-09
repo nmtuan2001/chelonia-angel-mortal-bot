@@ -19,7 +19,7 @@ const constants = {
 		+ "For example:\n"
 		+ "/a Hi angel! Thanks for the gifts :)\n"
 		+ "/m Hey mortal. You're welcome!",
-        extraMessage: "Chelonia BEST HOUSE!!",
+        importantMessage: "Chelonia BEST HOUSE!!",
 	verifyAdminMessage: "Please send the admin password and the house for which you want to start the game"
 		+ "(e.g. <password> Chelonia)",
 	assignhouseMessage: "Which house do you want to start the game (Chelonia or Aonyx)?\n\n"

@@ -21,7 +21,7 @@ const uuid = require('uuid');
 const aboutMessage = constants.aboutMessage;
 const helpMessage = constants.helpMessage;
 const startMessage = constants.startMessage;
-const extraMessage = constants.extraMessage;
+const importantMessage = constants.importantMessage;
 const verifyAdminMessage = constants.verifyAdminMessage;
 const pairingNotFoundMessage = constants.pairingNotFoundMessage;
 const messageSentMessage = constants.messageSentMessage;
@@ -379,8 +379,8 @@ bot.on('message', (msg) => {
 				bot.sendMessage(chatId, startMessage);
 				break;
 
-      case "/extra":
-        bot.sendMessage(chatId, extraMessage);
+      case "/impt":
+        bot.sendMessage(chatId, importantMessage);
 			  break;
 
 			case "/admin":

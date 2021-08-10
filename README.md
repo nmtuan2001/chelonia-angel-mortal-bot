@@ -13,7 +13,3 @@ Angels and Mortals Bot built for RVRC Chelonia House!!!
 1. Run ```$env:GOOGLE_APPLICATION_CREDENTIALS="/path/to/serviceaccountfile.json"```.
 2. Run ```npm install```.
 3. Run ```node app.js```.
-
-## Deploy with Google Cloud (for production)
-1. Set up Google Cloud SDK, etc.
-2. Run ```gcloud app deploy app.yaml -v v1```
